@@ -116,7 +116,7 @@ function buildCharts(sample) {
   var bubbleLayout = {
       title: "Bacteria Cultures Per Sample",
       xaxis: {title: "OTU ID"},
-      // automargin: true,
+      automargin: true,
       hovermode: "closest"
   };
 
@@ -164,8 +164,6 @@ function buildCharts(sample) {
     
   // 5. Create the layout for the gauge chart.
   var gaugeLayout = { 
-    width: 600, 
-    height: 500,
     font: {color: "black"}
   };
 

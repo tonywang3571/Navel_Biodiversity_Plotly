@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Navel  Biodiversity</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="static/css/styles.css"/>
 </head>
 
 <body>
@@ -15,9 +16,16 @@
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
         <h1>Navel Biodiversity Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
       </div>
     </div>
+    <p>This webpage was created to interactively explore bacterial growth across different participant's navel. 
+      The horizonal bar graph displays the top 10 different bacteria, based on OTU (operational taxonomic unit) 
+      classification. The "gauge" chart displays the frequency of how many times each participant performs navel 
+      cleaning procedures (specific instructions for navel cleaning was not disclosed to us when the webpage was 
+      created and when the data was provided). The bubble chart displays different bacteria cultures per sample, 
+      as well as the value of each bacteria found with greater bubble radius for greater values of the bacteria. 
+      Please use the interactive charts below to explore the dataset. 
+    </p>
     <div class="row">
       <div class="col-md-2">
         <div class="well">
@@ -48,8 +56,7 @@
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="charts.js"></script>
-
+  <script src="static/js/charts.js"></script>
 </body>
 
 </html>
