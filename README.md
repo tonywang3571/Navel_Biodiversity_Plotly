@@ -27,7 +27,7 @@ The purpose of this project is to create an interactive webpage that allows the 
 
 ### Codes Used  
 (Please look at specific files for codes used)  
-Link to [webpage](https://tonywang3571.github.io/Navel_Biodiversity_Plotly/)  
 Code for [building data table and charts](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/static/js/charts.js)  
 Code for [building webpage](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/index.html)  
 Code for [styling webpage](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/static/css/styles.css)  
+Link to [webpage](https://tonywang3571.github.io/Navel_Biodiversity_Plotly/)  
