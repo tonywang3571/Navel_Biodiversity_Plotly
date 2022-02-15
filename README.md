@@ -8,6 +8,7 @@ The purpose of this project is to create an interactive webpage that allows the 
 ## Resources:  
 - Data Source: Provided [Data](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/samples.json)  
 - Software: VS code 1.63.2 (Javascript, HTML, CSS, Bootstrap, Plotly)  
+- Link to [webpage](https://tonywang3571.github.io/Navel_Biodiversity_Plotly/)  
 
 ## Analysis and Results  
 
@@ -30,4 +31,3 @@ The purpose of this project is to create an interactive webpage that allows the 
 Code for [building data table and charts](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/static/js/charts.js)  
 Code for [building webpage](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/index.html)  
 Code for [styling webpage](https://github.com/tonywang3571/Navel_Biodiversity_Plotly/blob/master/static/css/styles.css)  
-
